@@ -1,4 +1,4 @@
-# Projeto de Estudos para Certificações Bancárias (2026)
+# Treinamento para Certificação CPA - 2026
 
 ## 📌 Objetivo
 
