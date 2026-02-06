@@ -1,4 +1,4 @@
-# Treinamento para Certificação CPA - 2026
+# Treinamento para Certificação CPA - 2026 (Notebook LM)
 
 ## 📌 Objetivo
 
